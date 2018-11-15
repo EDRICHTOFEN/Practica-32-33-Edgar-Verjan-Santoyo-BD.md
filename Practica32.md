@@ -1,3 +1,5 @@
+# ---PRACTICA 32---
+
 ```
 
 use animalsdb;
@@ -1014,3 +1016,8 @@ insert into animalstbl (id, Animal_Common_Name, Animal_Scientific_Name, country,
 SELECT * FROM animalstbl;
 
 ```
+
+
+
+
+
